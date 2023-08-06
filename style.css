@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: url(store.jpg);
+
+    
+}
+
+.box{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    color: aliceblue;
+    list-style-position: inside;
+}
